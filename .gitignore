@@ -1,0 +1,14 @@
+# Xcode
+## Build generated
+build/
+DerivedData/ 
+## Various settings
+*.pbxuser
+xcuserdata/
+Pods/
+Podfile
+Podfile.lock
+geo_appTests/
+geo_app.xcworkspace/xcuserdata/lauraste.xcuserdatad/UserInterfaceState.xcuserstate
+# test
+geo_app.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist

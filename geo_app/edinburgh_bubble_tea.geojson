@@ -1,0 +1,75 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Tempo Tea Bar",
+        "description": "7 East Market St, Edinburgh"
+      },
+      "geometry": {
+        "coordinates": [
+          -3.186148,
+          55.951822
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "T'EA! 挑TEA派",
+        "description": "A lakefront park on Chicago's south side"
+      },
+      "geometry": {
+        "coordinates": [
+          -3.217633,
+          55.945181
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Rainbow Bubble Tea",
+        "description": "Waverley Mall, Waverley Bridge, Edinburgh"
+      },
+      "geometry": {
+        "coordinates": [
+          -3.190591,
+          55.954721
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Yi Wang Taiwan Fruit Tea",
+        "description": "12 Clerk St, Edinburgh"
+      },
+      "geometry": {
+        "coordinates": [
+           -3.182595,
+           55.942905
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Chatime",
+        "description": "14 Bank St, Edinburgh"
+      },
+      "geometry": {
+        "coordinates": [
+           -3.193083,
+           55.949883
+        ],
+        "type": "Point"
+      }
+    },
+  ],
+  "type": "FeatureCollection"
+}
